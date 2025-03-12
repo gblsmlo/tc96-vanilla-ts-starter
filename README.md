@@ -1,0 +1,2 @@
+# tc⚡96 vanilla-ts started
+This is a boilerplate to help you quickly set up and start building Vanilla projects with TypeScript. It includes essential configurations, tools, and best practices to get you started.
